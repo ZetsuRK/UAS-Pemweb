@@ -11,6 +11,7 @@ Edit Profil + Foto
 Login, Register, Remember Me
 Tampilan menggunakan SB Admin 2
 Berita publik bisa diakses tanpa login
+
 🚀 Cara Menjalankan
 Extract ZIP
 Jalankan:

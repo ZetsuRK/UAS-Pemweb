@@ -1,6 +1,4 @@
 (UAS Project Ahmad Aryobimo 2023E)
-Aplikasi Portal Berita berbasis Laravel 12 dengan SB Admin 2.
-Dibuat untuk memenuhi Tugas UAS Pemrograman Web Lanjut - D4 Manajemen Informatika.
 
 📦 Fitur Utama
 CRUD Berita
